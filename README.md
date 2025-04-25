@@ -1,5 +1,6 @@
 
-# Jarvis Face Authentication
+# Ultron Functionalities
+
 
 #### 1. Add CDN of lottiefiles
 ```
